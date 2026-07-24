@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+server/node_modules/
+
+# Build
+dist/
+
+# Variables d'environnement
+.env
+server/.env
+
+# IDE installé dans le projet
+Antigravity IDE/
+
+# Logs
+*.log
